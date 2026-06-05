@@ -23,21 +23,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core World Model Platforms
 
-- **[Google DeepMind Genie 3](https://deepmind.google)**  
-  Real-time interactive world model capable of generating persistent, playable 3D environments from images or text with strong physics and long-horizon consistency.
-
-- **[Meta AI V-JEPA 2](https://ai.meta.com)**  
-  Advanced video-based world model focused on predictive understanding, zero-shot planning, and robot control using Joint Embedding Predictive Architecture.
-
-- **[World Labs Marble](https://www.worldlabs.ai)**  
-  Multimodal 3D world generation platform that creates explorable, editable worlds from text, images, or video with strong spatial intelligence.
-
-- **[Generative World Engines (Mirage 2)](https://mirage.ai)**  
-  High-fidelity generative world model optimized for interactive simulation and dynamic scene generation.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Google DeepMind Genie 3](https://deepmind.google)** | Real-time interactive world model for persistent 3D environments. | ~$250/mo (AI Ultra) | Research Preview (Invite) |
+| **[Meta AI V-JEPA 2](https://ai.meta.com)** | Video-based world model for predictive understanding and planning. | Free (Open Source) | N/A (Self-hosted) |
+| **[World Labs Marble](https://www.worldlabs.ai)** | Multimodal 3D world generation from text, images, or video. | From $20/mo | 4 generations / month |
+| **[Generative World Engines (Mirage 2)](https://mirage.ai)** | High-fidelity world model for interactive simulation and scene generation. | Free (Beta) | Unlimited (Public Demo) |
+| **[NVIDIA Cosmos](https://build.nvidia.com)** | Foundation world models for physical AI and 3D simulation. | Enterprise / NIM | 1,000 Trial Credits |
+| **[Wayve GAIA-2](https://wayve.ai)** | Generative world model for autonomous driving simulation. | Proprietary | Closed Access |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: NVIDIA Cosmos, Wayve GAIA-2, and various embodied AI world model platforms.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Viam](https://www.viam.com)** | Cloud-based platform for robotics data, compute, and operations. | Consumption-based | $5/mo free usage credits |
+| **[Parallel Domain](https://paralleldomain.com)** | Synthetic data generation API for world simulation and training. | Enterprise | Custom / Trial |
+| **[Applied Intuition](https://www.appliedintuition.com)** | Simulation and software tools for autonomous vehicle development. | Enterprise | Custom Quotes |
+| **[Scale AI Nucleus](https://scale.com/nucleus)** | Data management and simulation platform for AI world models. | Usage-based | First 1,000 units free |
+
 
 ## Open-Source GitHub Projects
 
